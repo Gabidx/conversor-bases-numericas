@@ -5,7 +5,7 @@ Projeto colaborativo para conversão entre bases decimais, binárias, hexadecima
 ## Integrantes
 | Nome | Usuário GitHub |
 | :--- | :--- |
-| [Nome 1] | @[usuario1] |
+| [José Gabriel Soares de souza] | @[Gabidx] |
 | [Nome 2] | @[usuario2] |
 
 ## Histórico de Versões (Releases)
